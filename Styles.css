@@ -1,0 +1,9 @@
+<!--Assignment 4-->
+<!--Display heading in red and paragraph in blue using external css-->
+<!DOCTYPE html>
+h1{
+color: blue;
+}
+p{
+color: blue;
+}
